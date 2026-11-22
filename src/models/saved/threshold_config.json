@@ -1,0 +1,6 @@
+{
+    "threshold": 0.01,
+    "cost_false_negative": 50000,
+    "cost_false_positive": 5000,
+    "selection_method": "out_of_fold_cost_minimization"
+}
